@@ -4,7 +4,7 @@ This repository contains a series of Jupyter Notebooks for analyzing and visuali
 
 ## Notebooks
 
-### 1. Final Awakenings.ipynb
+### 1. awakenings.ipynb
 
 **Objective:** Analyze the number of awakenings during the night and their correlation with noise levels.
 
@@ -19,7 +19,7 @@ This repository contains a series of Jupyter Notebooks for analyzing and visuali
   - Calculation of mean dB values for noisy and quiet nights.
   - Detection and plotting of sleep incidents.
 
-### 2. Final Mean dB.ipynb
+### 2. mean_dB.ipynb
 
 **Objective:** Show the average dB value of the dataset, both when the user is confirmed to be sleeping and when the user is not.
 
@@ -32,7 +32,7 @@ This repository contains a series of Jupyter Notebooks for analyzing and visuali
   - Calculation of average dB values.
   - Plotting of average dB levels with bar and line plots.
 
-### 3. Final Nights with Ilegal levels.ipynb
+### 3. nights_with_ilegal_levels.ipynb
 
 **Objective:** Show the number of nights where the noise levels exceed the legal limits set by the WHO (40 dB) during sleep.
 
@@ -48,7 +48,7 @@ This repository contains a series of Jupyter Notebooks for analyzing and visuali
   - Calculation of nights with noise levels above 40 dB.
   - Plotting the distribution of nights by sound level.
 
-### 4. Final Noisy Quiet dB and hR levels.ipynb
+### 4. noisy_quiet_dB_and_hR_levels.ipynb
 
 **Objective:** Compare the differences between quiet and noisy nights in terms of average noise levels and heart rate levels.
 
@@ -61,7 +61,7 @@ This repository contains a series of Jupyter Notebooks for analyzing and visuali
   - Calculation of mean dB and heart rate values for noisy and quiet nights.
   - Plotting the differences between noisy and quiet nights.
 
-### 5. Final Number of trains.ipynb
+### 5. number_trains.ipynb
 
 **Objective:** Analyze and detect the hours when the most trains depart from Tarragona's port.
 
