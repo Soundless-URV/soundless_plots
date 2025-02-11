@@ -36,7 +36,7 @@ Analyze and detect the hours when the most trains depart from Tarragona's port.
 
 ## Data
 
-The data used in these notebooks is stored in the `./soundless-data/` and `./soundless-history/` directories. The datasets include measurements of noise levels, heart rate, sleep stages, and train schedules.
+The data used in these notebooks is stored in the `./soundless/data/` and `./soundless/history/` directories. The datasets include measurements of noise levels, heart rate, sleep stages, and train schedules.
 
 ## Usage
 
